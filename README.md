@@ -8,4 +8,4 @@ This was a project to get more used to JS with the use of variables as well as i
 
 With the use of DOM manipulation was able to change everything on the page the way the challenge asked
 
-https://dustinsoos.github.io/Dice-Game/ is the link to the website.
+https://dustinsoos.github.io/dicegame/ is the link to the website.
