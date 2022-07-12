@@ -4,7 +4,7 @@ Creating a game for everytime you refresh player 1 or player 2 wins or it can be
 
 In this game I used HTML/CSS/JS
 
-This was a project to get more used to JS with the use of variables as well as innerHTML
+This was a project to get more used to JS with the use of variables as well as innerHTML,querySelectors,random numbers
 
 With the use of DOM manipulation was able to change everything on the page the way the challenge asked
 
